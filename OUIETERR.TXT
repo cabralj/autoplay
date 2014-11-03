@@ -1,0 +1,5 @@
+
+ (): Can't open engine damaged  C:\Program Files\Lite-C\acknex.dll 
+
+< >
+LOAD.C  (): Syntax error -    
